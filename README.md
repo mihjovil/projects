@@ -12,5 +12,3 @@ This project consist of a python application that creates a chatbot to interact 
 ## 4. [DL workshop](https://github.com/mihjovil/dl_workshop)
 This project consists of a jupyter file that contains an introduction to DL projects in jupyter. I created this in order to explain to some colleagues the basics of Python, Tensorflow and Jupyter. Also I cover topics like numpy and pandas. In the end I give a basic introduction to the most commons applications of Neural Networks.
 ![](images/Cifar10_DL_Workshop.PNG)
-## 5. [Fifa Analysis](https://github.com/mihjovil/fifaAnalysis)
-I have only started with this project but the idea is to do a deep data exploratory analysis on a Fifa dataset of all players. Try to do some clustering and maybe even some further activity to predict the most important atributes to determine the price of a player.
