@@ -13,3 +13,6 @@ This project consists of a jupyter file that contains an introduction to DL proj
 ## 4. [Credit Risk Project](https://github.com/mihjovil/creditAnalysis)
 This project is mainly a data exploratory analysis done on a dataset with bank information from the old days in Germany. In it I display different techniques and analysis done on the data which would make part of any Data Science project. At the end, I use different models to predict when a user is risky or not to give a credit.
 ![](images/creditRiskModels.PNG)
+## 5. [Football Results Downloader](https://github.com/mihjovil/api-football-client)
+This project is driven by my passion for football. The idea is to make a fully functional score recommender. The current state of the project allows anyone to donwload a custome file that I create using <a href="https://dashboard.api-football.com/">api-football's API</a>. This contains for my favorite leagues, the scores of the season as well as the positions' table. I will add visualization tools for this data in the future and then I will tackle the score recommender model using the same data. The deployment is currently in Heroku and you can use it <a href="https://football-results-downloader.herokuapp.com/">here</a>.
+![](images/football.PNG)
