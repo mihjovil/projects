@@ -9,10 +9,11 @@ This project is a package I made for my NLP projects. It consist basically of a 
 ## 3. [DL workshop](https://github.com/mihjovil/dl_workshop)
 This project consists of a jupyter file that contains an introduction to DL projects in jupyter. I created this in order to explain to some colleagues the basics of Python, Tensorflow and Jupyter. Also I cover topics like numpy and pandas. In the end I give a basic introduction to the most commons applications of Neural Networks.
 
+![](images/Cifar10_DL_Workshop.PNG)
+
 ## 4. [Pymarshaller](https://github.com/mihjovil/pymarshaller)
 This is a python package that allows to marshall and unmarshall JSON objects into custom Python dataclasses like is usually done in Golang from JSON to Structs. I fins that function to be very useful in Golang and could not find a good solution for it on Python. Therefore, I came up with my own. The only limitation it has so far is with nested JSON objects (JSON inside of JSON). Because of Python's nature I cannot access the attributes' names automatically. Therefore, for nested objects the unmarshall function must be performed more than one time (one per nested element). 
 
-![](images/Cifar10_DL_Workshop.PNG)
 ## 5. [Football Results Downloader](https://github.com/mihjovil/api-football-client)
 This project is driven by my passion for football. The idea is to make a fully functional score recommender. The current state of the project allows anyone to donwload a custome file that I create using <a href="https://dashboard.api-football.com/">api-football's API</a>. This contains for my favorite leagues, the scores of the season as well as the positions' table. I will add visualization tools for this data in the future and then I will tackle the score recommender model using the same data. The deployment is currently in Heroku and you can use it <a href="https://football-results-downloader.herokuapp.com/">here</a>.
 ![](images/football.PNG)
